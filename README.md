@@ -6,7 +6,7 @@ At First I performed Exploratory Data Analysis,Feature Engineering,Feature Selec
 
 I applied following models:
 
-1)K-means Clustering Algorithm and find out number of clusters using Elbow Method and Silhouette Score
+1) K-means Clustering Algorithm and find out number of clusters using Elbow Method and Silhouette Score
 
 2) Agglomerative Clustering
 
